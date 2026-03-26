@@ -4,7 +4,7 @@
 
 namespace hello {
     void printHello() {
-	std::cout << "Hello Planet Earth from Planet CPP" << std::endl;
+	std::cout << "Hello Planet Earth from Planet CPP!" << std::endl;
 	}
 }
 
